@@ -1,0 +1,13 @@
+{
+  "name": "YT Music Mini",
+  "version": "1.0.0",
+  "main": "www/index.html",
+  "window": {
+    "height": 128,
+    "max_height": 128,
+    "min_height": 128,
+    "width": 764,
+    "max_width": 764,
+    "min_width": 764
+  }
+}

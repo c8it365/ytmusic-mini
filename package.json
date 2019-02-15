@@ -1,0 +1,15 @@
+{
+  "name": "ytmusic-mini",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "c8it365 <c8it365@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "nw": "^0.36.1",
+    "nw-builder": "^3.5.7"
+  },
+  "scripts": {
+    "dev": "nw src/",
+    "build": "nwbuild --platforms win64,linux64 --buildDir dist/ src/"
+  }
+}
